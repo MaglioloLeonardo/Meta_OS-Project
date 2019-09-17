@@ -9,4 +9,4 @@ Progetto di sistemi operativi pensato per applicare su C strumenti Linux trattat
 
 -IPCS
 
-All'interno della directory 'Documenti' sono salvati i file pdf che descrivono in breve la consegna del progetto e illustrano come utilizzare il codice e l'implmentazione delle soluzioni adottate.
+All'interno della directory 'Documenti' sono salvati i file pdf che descrivono in breve la consegna del progetto e illustrano come utilizzare il codice mostrando l'implmentazione delle soluzioni adottate.
