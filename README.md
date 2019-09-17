@@ -12,4 +12,8 @@ Progetto di sistemi operativi pensato per applicare su C strumenti Linux trattat
 All'interno della directory 'Documenti' sono salvati i file pdf che descrivono in breve la consegna del progetto e descrivono come utilizzare il codice e l'implmentazione delle soluzioni adottate.
 
 
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> d0fd03897d2c184dd16437fbcc655b81b3f42169
