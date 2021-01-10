@@ -1,4 +1,4 @@
-# OS-Project
+# Meta_OS-Project
 Progetto di sistemi operativi pensato per implementare mediante linguaggio C funzionalità offerte da Unix trattate dal programma teorico, quali:
 
 -I/O su file mediante librerie specifiche
